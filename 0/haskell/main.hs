@@ -1,3 +1,3 @@
--- | Hello, World
+-- Hello, World
 
 main = putStrLn "Hello, World!"
